@@ -1,8 +1,11 @@
 <?xml version="2.0" encoding="UTF-8"?>
 
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
-<widget id        = "com.phonegap.helloworld"
-        version   = "2.0.0">
+<widget id         = "com.example.app"
+        version    = "1.0.0" 
+        xmlns      = "http://www.w3.org/ns/widgets" 
+        xmlns:gap  = "http://phonegap.com/ns/1.0">
+
 
     <name>Hello World</name>
 
